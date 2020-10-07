@@ -51,3 +51,4 @@ end
 
 frederick = Animal.new("bull")
 puts frederick.species
+
